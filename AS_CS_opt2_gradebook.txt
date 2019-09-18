@@ -1,0 +1,12 @@
+1         Daniel    Chu       98        90        89       89.3       
+2         Julian    Ye        95        95        89       93.0       
+3         Lisa      Xu        95        98        91       94.7       
+4         Shirley   Zeng      85        100       90       91.7       
+5         Nico      Jiang     88        100       92       93.3       
+6         Tim       Xing      88        92        84       88.0       
+7         James     Liu       89        92        83       88.0       
+8         Andy      Zhang     90        97        92       93.0       
+9         Cathy     Yang      88        98        84       90.0       
+10        Brian     Shan      92        98        93       94.3       
+11        Harry     Fang      93        93        91       92.3       
+12        Jack      Jin       90        99        83       90.7       
